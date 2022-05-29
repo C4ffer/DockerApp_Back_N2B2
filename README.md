@@ -11,7 +11,7 @@ Executar o arquivo endpoints.py para disponibilzação da API do Docker através
 
 ## Métodos
 
-### Images
+### Containers
 get: retorna todas os containers presentes no Docker.
 Parametros: Não possui parametros.
 
